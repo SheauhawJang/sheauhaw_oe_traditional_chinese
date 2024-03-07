@@ -1,0 +1,8 @@
+﻿l_trad_chinese:
+	WLTDJTooltip_decision_0001.tt:0 "查看《東方王朝》mod新機制說明"
+	WLTDJTooltip_decision_0001.tooltip:0 "查看《東方王朝》mod新機制說明"
+	WLTDJTooltip_decision_0001_desc:0 "查看《東方王朝》mod新機制說明"
+	WLTDJTooltip_decision_0001_confirm:0 "查看《東方王朝》mod新機制說明"
+	WLTDJTooltip.0001.tt:0 "新機制提示"
+	WLTDJTooltip.0001.desc:0 "$CorruptionSystemTooltip$$TributeSystemTooltip$$Sinic_tooltip$"
+	WLTDJTooltip.0001.a:0 "原來如此"

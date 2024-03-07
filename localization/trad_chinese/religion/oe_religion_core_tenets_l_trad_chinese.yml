@@ -1,0 +1,13 @@
+﻿l_trad_chinese:
+	tenet_pmry_name:0 "平蠻攘夷"
+	tenet_pmry_desc:0 "堂上謀臣尊俎，邊頭將士干戈。天時地利與人和。燕可伐與？曰：可。"
+	tenet_bjwg_name:0 "守土安民"
+	tenet_bjwg_desc:0 "秦時明月漢時關，萬里長征人未還。但使龍城飛將在，不教胡馬度陰山。"
+	mixture_three_religions:0 "三教合流"
+	mixture_three_religions_name:0 "三教合流"
+	special_doctrine_mixture_three_religions_name:0 "三教合流"
+	special_doctrine_mixture_three_religions_desc:0 "孔子問道於老子，而復有化胡之傳，釋道不違聖朝，亦有資於治道。"
+	doctrine_parameter_hostility_override_special_doctrine_mixture_three_religions:0 "緩和與道教[faiths|E]和佛教[faiths|E]的關係，彼此視對方為[GetHostilityLevelName( TOKEN_PARAMETER.GetIntValue )|V]而非$hostility_evil_tooltippable$的$game_concept_faiths$"
+	special_doctrine_is_eastern_faith_name:0 "東方綜攝主義"
+	tenet_headhunting_name:0 "獵頭"
+	tenet_headhunting_desc:0 "頭顱乃精氣所聚，神靈所指，占有頭顱即勇武的明證。"

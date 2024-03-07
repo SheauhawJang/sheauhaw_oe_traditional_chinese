@@ -1,0 +1,13 @@
+﻿l_trad_chinese:
+	action_oe_info:0 "《東方王朝》說明"
+	action_oe_info_label:0 "《東方王朝》說明"
+	action_oe_info_desc:0 "《東方王朝》希望做基於嚴謹學術，依托遊戲邏輯，反映中國與世界長期交流史的MOD"
+	action_oe_info_click:0 "點擊聯繫製作組"
+	oe_info.001.tt:0 "《東方王朝》說明"
+	oe_info.001.desc:0 "《東方王朝》希望基於嚴謹學術，依托遊戲邏輯，反映中國與世界長期交流史，構建歐亞大陸完整地圖上的歷史。\n\nMOD唯一發布地址：https://steamcommunity.com/sharedfiles/filedetails/?id=2506311074，請認准正版並保持更新。MOD內容禁止用作商業用途。 \n  如果感到卡頓，請排查衝突的MOD尤其是服裝MOD，降低視覺要求，或點選「死神來了」決議減少角色人數。\n\n歷次更新：https://steamcommunity.com/sharedfiles/filedetails/changelog/2506311074 \n愛發電捐贈：https://afdian.net/a/NomadClub\n製作者主頁：https://space.bilibili.com/279205719 \n玩家群：605360990  萌新群：786229508 \n\n主創：\nCh!llshadow、糜三小姐、Maekawa、Warial、丶未來科技丿、鸑鷟、凝輔國、憤怒的轉輪聖王、往來天地間、自我進化\n\n模型：\n張滿月、明、炎美、牧馬滹沱、TǎMā 、洛水舞輕影、鈴蘭\n\n風味化和拓展：\n哿兮、張滿月、rWepsA、Vanity.、戲王之王、三倍滿自動姬、橙熊咖啡、囧rz囧TZ人生、一葦、魔法魚、沙司比利\n\n特別致謝：\n月見裡シーフォティス （Miller Cylindrical Projection）\n朔望《華夏衣冠》\n諸葛孔博《唐宋的憂思》\nNezaros（《Rajas of Indochina》）\n《新大和史》《Shogunate》\n《Majapahit Mod Jam Mod》\nlester1936（《唐朝地圖》《五代》）\n倉音 諸神&黃昏 消失的痕跡 叡 天祠 櫻國公李斯利"
+	see_change_log:0 "批閱更新日誌"
+	see_donate_page:0 "好活當賞！"
+	zz_info_decision:0 "向創世神祈禱"
+	zz_info_decision_desc:0 "《東方王朝》希望基於嚴謹學術，依托遊戲邏輯，反映中國與世界長期交流史，構建歐亞大陸完整地圖上的歷史。\n\nSTEAM創意工坊是MOD唯一發布地址，請認准正版並保持更新。MOD內容禁止用作商業用途。 \n  如果感到卡頓，請排查衝突的MOD尤其是服裝MOD，降低視覺要求，或點選「死神來了」決議減少角色人數。\n\n歷次更新：https://steamcommunity.com/sharedfiles/filedetails/changelog/2506311074 \n愛發電捐贈：https://afdian.net/a/NomadClub\n製作者主頁：https://space.bilibili.com/279205719 \n玩家群：786229508  玩家二群：605360990"
+	zz_info_decision_tooltip:0 "$action_oe_info_desc$"
+	zz_info_decision_confirm:0 "好活當賞！"

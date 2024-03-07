@@ -1,0 +1,5 @@
+﻿l_trad_chinese:
+	oe_legions:0 "[oe_legions|E]"
+	game_concept_oe_legions:0 "防秋軍"
+	game_concept_oe_legions_desc:0 "唐時突厥、吐蕃等常於秋日入寇，故於其時調兵守邊，稱為「防秋」。那些遵從朝廷指揮的藩鎮會將部分部隊帶到邊關參與戍守，此即為防秋軍。每五年會有三個和你關係較好的藩鎮作為防秋軍參與你的戰事，只要這些藩鎮沒有參加作戰，你都可以隨時在防秋界面徵用這些部隊參加戰爭。"
+	oe_legion_army_name:0 "[oe_legions|E]"

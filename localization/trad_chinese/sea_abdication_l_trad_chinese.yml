@@ -1,0 +1,12 @@
+﻿l_trad_chinese:
+	abdicate_decision:0 "退位"
+	abdicate_decision_tooltip:0 "你可以退位，並扮演你的繼承人"
+	abdicate_decision_desc:0 "我作為[ROOT.Char.GetTitleAsNameNoTooltip]治理[ROOT.Char.GetPrimaryTitle.GetNameNoTierNoTooltip]的時間已經夠久了。吾之孝子必當為賢君。"
+	abdicate_decision_effect_text:0 "你將選擇頒布詔令，宣布退位，繼續扮演你的合法繼承人。"
+	abdicate_decision_confirm:0 "是時候了"
+	abdication.0001.t:0 "退位"
+	abdication.0001.desc:0 "餘享國日久，晨起愈遲，無辭樞要之繁，當思有為之君。群臣用命，百姓尚賢。餘之愛子，素有賢名，今即詔臨大寶，紹理天下，民之所歸，餘之所願也。余得退處寬閒，優遊歲月，長受國人之優禮 ，親見郅治之告成，豈不懿歟？"
+	abdication.0001.a:0 "[ROOT.Char.GetPrimaryTitle.GetBaseNameNoTooltip]該迎來一位新君了"
+	abdication.0001.b:0 "不不不，我還要再續一會…"
+	abdication.0001.c:0 "我厭倦了，世事與我何干"
+	abdicate_decision_effect_tt:0 "你將退位，扮演你的繼承人繼續遊戲"

@@ -1,0 +1,9 @@
+﻿l_trad_chinese:
+	ascended_throne_memory:0 "獲得頭銜"
+	oe_ascended_throne_memory_desc:0 "我開始主政[ROOT.Var('landed_title').Title.GetBaseName]"
+	oe_ascended_throne_memory_desc_second_perspective:0 "你開始主政[ROOT.Var('landed_title').Title.GetBaseName]"
+	oe_ascended_throne_memory_desc_third_perspective:0 "[owner.GetDynastyNameNoTooltip][owner.GetFirstName]開始主政[ROOT.Var('landed_title').Title.GetBaseName]"
+	lost_title_memory:0 "失去重要頭銜"
+	oe_lost_title_memory_desc:0 "我將[ROOT.Var('landed_title').Title.GetBaseName]移交給了[new_holder.GetFullName]"
+	oe_lost_title_memory_desc_second_perspective:0 "你將[ROOT.Var('landed_title').Title.GetBaseName]移交給了[new_holder.GetFullName]"
+	oe_lost_title_memory_desc_third_perspective:0 "[owner.GetDynastyNameNoTooltip][owner.GetFirstName]將[ROOT.Var('landed_title').Title.GetBaseName]移交給了[new_holder.GetFullName]"
