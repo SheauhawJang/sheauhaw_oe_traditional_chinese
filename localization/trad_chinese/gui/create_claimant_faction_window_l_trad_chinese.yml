@@ -1,0 +1,6 @@
+﻿l_trad_chinese:
+	CREATE_CLAIMANT_FACTION_NO_CLAIMANT_IN_REALM:0 "@warning_icon! #X 未處於[CHARACTER.GetShortUINamePossessive]的領地#!"
+	CREATE_CLAIMANT_FACTION_NO_CLAIMANT_UNLANDED:0 "@warning_icon! #X 不是無領地者#!"
+	CREATE_CLAIMANT_FACTION_INVITE:0 "#T 邀請宣稱者#!"
+	CREATE_CLAIMANT_FACTION_SELECT_CLAIMANT:0 "@warning_icon! #X 未選擇宣稱者#!"
+	CREATE_CLAIMANT_FACTION_SELECT_TITLE:0 "@warning_icon! #X 未選擇頭銜#!"

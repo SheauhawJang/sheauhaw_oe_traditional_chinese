@@ -1,0 +1,11 @@
+﻿l_trad_chinese:
+	I_TAKE_HOSTAGE:0 "[TARGET_CHARACTER.GetShortUIName|U]成為你的[hostage|E]"
+	THEY_TAKE_HOSTAGE:0 "[TARGET_CHARACTER.GetShortUIName|U]成為[CHARACTER.GetShortUINamePossessive]的[hostage|E]"
+	I_TOOK_HOSTAGE:0 "[TARGET_CHARACTER.GetShortUIName|U]成為你的[hostage|E]"
+	THEY_TOOK_HOSTAGE:0 "[TARGET_CHARACTER.GetShortUIName|U]成為[CHARACTER.GetShortUINamePossessive]的[hostage|E]"
+	I_RETURN_FROM_HOSTAGE:0 "我不再是[hostage|E]"
+	THEY_RETURN_FROM_HOSTAGE:0 "[CHARACTER.GetName]不再是[hostage|E]"
+	I_RETURNED_FROM_HOSTAGE:0 "我不再是[hostage|E]"
+	THEY_RETURNED_FROM_HOSTAGE:0 "[CHARACTER.GetName]不再是[hostage|E]"
+	I_ATTACK_TRUCE_HOSTAGE_FATE:0 "#X 你決定[hostage|E][TARGET_CHARACTER.GetShortUIName|U]的命運#!"
+	THEY_ATTACK_TRUCE_HOSTAGE_FATE:0 "#X 決定[hostage|E][TARGET_CHARACTER.GetShortUIName|U]的命運#!"

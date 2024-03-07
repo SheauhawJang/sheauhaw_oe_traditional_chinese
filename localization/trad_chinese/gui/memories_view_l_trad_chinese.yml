@@ -1,0 +1,10 @@
+﻿l_trad_chinese:
+	MEMORIES_WINDOW_HEADING:0 "記憶：[Select_CString( MemoriesWindow.GetCharacter.IsValid, MemoriesWindow.GetCharacter.GetShortUINamePossessiveNoTooltip, '空')|U]"
+	MEMORIES_WINDOW_ENTRY:0 "[CharacterMemory.GetDescription|U]。"
+	MEMORIES_WINDOW_COPY_ENTRY:0 "[CharacterMemory.GetCreationDate.GetString]\n[CharacterMemory.GetDescription|U]。\n\n"
+	MEMORIES_WINDOW_COPY_TO_CLIPBOARD:0 "$COA_DESIGNER_COPY_TO_CLIPBOARD_BUTTON$"
+	CHARACTER_HAS_NO_MEMORIES:0 "[Select_CString( Character.IsAlive, '還沒有值得注意的事發生……', '這些記憶已隨時間逝去……')]"
+	MEMORY_INFO:0 "這些是[Select_CString( MemoriesWindow.GetCharacter.IsValid, MemoriesWindow.GetCharacter.GetShortUINamePossessiveNoTooltip, '失去')]的重要記憶。記憶轉瞬即逝、變幻無常，但仍然珍貴的且不可替代。所有的記憶都會在時間的沖刷下逐漸被遺忘。"
+	OPEN_MEMORIES_TOOLTIP:0 "#I 查看該角色的記憶#!"
+	MEMORIES_WINDOW_PIN_IT:0 "釘選該窗口，防止其切換至其他角色"
+	MEMORY_SORT_ORDER_TOOLTIP:0 "#T 改變記憶排序#!"

@@ -1,0 +1,11 @@
+﻿l_trad_chinese:
+	parent_aids_martial_modifier:0 "父母援助軍事行動"
+	parent_aids_diplomacy_modifier:0 "父母援助外交行動"
+	parent_aids_stewardship_modifier:0 "父母援助財政行動"
+	parent_aids_intrigue_modifier:0 "父母援助謀略行動"
+	parent_aids_learning_modifier:0 "父母援助學識行動"
+	mothered_many_children_modifier:0 "養育了許多孩子"
+	parent_dealing_with_courtiers_modifier:0 "父母管理廷臣"
+	parent_dealing_with_courtiers_modifier_desc:0 "該角色有一位父母密切監視其廷臣。"
+	parent_events_wrangling_courtiers_modifier:0 "爭吵的廷臣"
+	parent_events_wrangling_courtiers_modifier_desc:0 "該角色密切監視其宮廷，以使廷臣們保持一致。"

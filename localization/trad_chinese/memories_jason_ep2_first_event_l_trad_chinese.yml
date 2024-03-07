@@ -1,0 +1,9 @@
+﻿l_trad_chinese:
+	trampled_during_race_rescue_desc:0 "在拙劣地嘗試拯救兩名參賽者的性命時，我感覺到被驚馬踹了一腳"
+	trampled_during_race_rescue_desc_second_perspective:0 "在拙劣地嘗試拯救兩名參賽者的性命時，你感覺到被驚馬踹了一腳"
+	trampled_during_race_rescue_desc_third_perspective:0 "在拙劣地嘗試拯救兩名參賽者的性命時，[owner.GetName]感覺到被驚馬踹了一腳"
+	successful_race_rescue_desc:0 "我衝了出去，在一大群觀眾面前把兩名參賽者從受傷的驚馬蹄下救了出來"
+	successful_race_rescue_desc_second_perspective:0 "你衝了出去，在一大群觀眾面前把兩名參賽者從受傷的驚馬蹄下救了出來"
+	successful_race_rescue_desc_third_perspective:0 "[owner.GetName]衝了出去，在一大群觀眾面前把兩名參賽者從受傷的驚馬蹄下救了出來"
+	trampled_during_race_rescue:0 "想要拯救兩位參賽者的性命但是受傷了"
+	successful_race_rescue:0 "勇敢地拯救了兩位參賽者的性命"

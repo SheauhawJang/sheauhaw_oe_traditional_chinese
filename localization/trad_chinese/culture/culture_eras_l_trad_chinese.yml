@@ -1,0 +1,13 @@
+﻿l_trad_chinese:
+	culture_group_military:0 "軍事"
+	culture_group_civic:0 "民政"
+	culture_group_regional:0 "文化和地域"
+	culture_group_any:0 "任何"
+	culture_era_tribal:0 "部落時期"
+	culture_era_tribal_desc:0 "[culture|E]的部落時代先於成體系法律與體制化的政府出現之前。[tribal_government|E]的統治者只能使用部落時代的[innovations|E]。"
+	culture_era_early_medieval:0 "中世紀早期"
+	culture_era_early_medieval_desc:0 "中世紀早期時代見證了專職行政者與一系列重要[innovations|E]的湧現，培育了脫離黑暗時代的[culture|E]。"
+	culture_era_high_medieval:0 "中世紀盛期"
+	culture_era_high_medieval_desc:0 "中世紀盛期時代是偉大技術與行政進步的時代，見證了小鎮成長為都市，以及市民階級的崛起，他們甚至能如貴族般掌握了至高統治權。"
+	culture_era_late_medieval:0 "中世紀晚期"
+	culture_era_late_medieval_desc:0 "中世紀晚期時代標誌著封建世界的頂點。官僚、工匠、商人和借貸者開始蠶食舊特權階級的權力，除了君主制本身。"

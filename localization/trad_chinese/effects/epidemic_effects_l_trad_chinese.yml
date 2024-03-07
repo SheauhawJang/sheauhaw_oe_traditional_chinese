@@ -1,0 +1,9 @@
+﻿l_trad_chinese:
+	set_epidemic_outbreak_intensity_global:0 "爆發強度變為$NEW_VALUE|V$"
+	set_epidemic_outbreak_intensity_global_past:0 "爆發強度變為$NEW_VALUE|V$"
+	set_epidemic_outbreak_intensity_third:0 "[EPIDEMIC.GetName]的爆發強度變為$NEW_VALUE|V$"
+	set_epidemic_outbreak_intensity_third_past:0 "[EPIDEMIC.GetName]的爆發強度變為$NEW_VALUE|V$"
+	create_epidemic_outbreak_global:0 "$INTENSITY|V$級[EPIDEMIC_TYPE.GetName]爆發出現"
+	create_epidemic_outbreak_global_past:0 "$INTENSITY|V$級[EPIDEMIC_TYPE.GetName]爆發出現"
+	create_epidemic_outbreak_third:0 "$INTENSITY|V$級[EPIDEMIC_TYPE.GetName]爆發出現在[PROVINCE.GetName]"
+	create_epidemic_outbreak_third_past:0 "$INTENSITY|V$級[EPIDEMIC_TYPE.GetName]爆發出現在[PROVINCE.GetName]"

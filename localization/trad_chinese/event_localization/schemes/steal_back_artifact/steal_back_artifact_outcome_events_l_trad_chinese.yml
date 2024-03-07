@@ -1,0 +1,10 @@
+﻿l_trad_chinese:
+	steal_back_artifact_outcome.1001.t:0 "$steal_back_artifact_event_title$成功！"
+	steal_back_artifact_outcome.1001.desc:0 "看到我努力收回的寶物時，一股強烈的成就感在我心中湧動。[artifact.GetName]終於物歸原主。儘管營救過程中或許造成了輕微的磨損和污漬，但我終於可以帶著努力得到回報的會心微笑，再次鑑賞它。"
+	steal_back_artifact_outcome.1001.a:0 "它終於回到了正確的地方，回到了正確的手上。"
+	steal_back_artifact_outcome.1002.t:0 "$steal_back_artifact_event_title$寶物被盜！"
+	steal_back_artifact_outcome.1002.desc:0 "今天是鑑賞[artifact_to_steal.GetName]的好日子，但讓我驚恐的是，它不見了！\n\n經過初步調查，僕人告訴我，有謠言稱[owner.GetTitledFirstName]說過[artifact_to_steal.GetName]在[owner.GetHerHis]手中會看上去更棒！"
+	steal_back_artifact_outcome.1002.a:0 "詛咒你，[owner.GetTitledFirstNameNoTooltip]！你這可惡的賊！"
+	steal_back_artifact_outcome.2001.t:0 "$steal_back_artifact_event_title$失敗"
+	steal_back_artifact_outcome.2001:0 "滲透工作按計劃進行，但什麼寶物都沒找到！肯定是運氣不好，要麼就是手下無能。"
+	steal_back_artifact_outcome.2001.a:0 "我不相信！我不接受！"

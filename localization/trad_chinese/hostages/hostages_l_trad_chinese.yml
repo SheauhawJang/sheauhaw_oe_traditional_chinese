@@ -1,0 +1,6 @@
+﻿l_trad_chinese:
+	GAIN_FROM_HOSTAGE:0 "[CHARACTER.GetName]"
+	GAIN_FROM_ALL_HOSTAGES:0 "來自[hostages|E]"
+	hostage_level_0:0 "無關緊要的人質"
+	hostage_level_1:0 "合格的人質"
+	hostage_level_2:0 "有價值的人質"

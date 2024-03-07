@@ -1,0 +1,9 @@
+﻿l_trad_chinese:
+	line_break:0 "\n"
+	double_line_break:0 "\n\n"
+	do_not_execute_plot_tooltip:0 "同謀們暫時會保持待命。"
+	outcome_in_a_few_moments:0 "一會兒後"
+	outcome_in_a_few_days:0 "幾天後"
+	outcome_in_a_few_weeks:0 "幾週後"
+	outcome_in_a_few_months:0 "幾個月後"
+	outcome_in_a_few_years:0 "幾年後"

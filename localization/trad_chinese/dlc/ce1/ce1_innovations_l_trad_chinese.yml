@@ -1,0 +1,4 @@
+﻿l_trad_chinese:
+	innovation_sanitation:0 "衛生設施"
+	innovation_sanitation_desc:0 "清潔至關重要，投資市政工程，為所有人提供維持適當的衛生水平，對我們的人民來說極其重要。"
+	unlocks_innovation_sanitation:0 "解鎖$culture_era_early_medieval$[era|E]的衛生設施[innovation|E]。"

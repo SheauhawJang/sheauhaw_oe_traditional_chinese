@@ -1,0 +1,10 @@
+﻿l_trad_chinese:
+	CHANGE_GHW_TARGET_TIMEOUT:0 "@warning_icon! #X 目標不能變更，因為戰爭將在不到$VALUE$天內開始#!"
+	CHANGE_GHW_TARGET_WRONG_HOSTILITY:0 "@warning_icon! #X 我們並不認為[TARGET_CHARACTER.GetNamePossessive]的信仰是敵對的#!"
+	CHANGE_GHW_TARGET_SAME_CHARACTER:0 "@warning_icon! #X 選擇的角色已經是這次大聖戰的目標#!"
+	CHANGE_GHW_TARGET_HEADER:0 "改變戰爭目標"
+	CHANGE_GHW_TARGET:0 "@warning_icon! #X 選擇新目標#!"
+	CHANGE_GHW_TARGET_CONFIRM:0 "改變戰爭目標"
+	CHANGE_GHW_TARGET_COST_TOOLTIP:0 "#T 改變目標花費\n#!每次改變目標之後花費都會增加\n[ChangeGHWTargetWindow.GetCostTooltip]"
+	CHANGE_GHW_TARGET_DEFENDERS:0 "防禦方"
+	CHANGE_GHW_TARGET_COST:0 "花費：[ChangeGHWTargetWindow.GetCost]"

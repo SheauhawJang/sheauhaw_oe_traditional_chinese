@@ -1,0 +1,6 @@
+﻿l_trad_chinese:
+	jewish_events.0001.t:0 "[ROOT.Char.GetFaith.GetAdjectiveNoTooltip]多偶制終結"
+	jewish_events.0001.desc:0 "幾個世紀以來，是否可以納娶多個配偶一直處於模糊地帶；不過，根據[ROOT.Char.GetFaith.GetName]最有權威的拉比組成的小會議的決定，多偶制不再是受[ROOT.Char.GetFaith.GetAdjectiveNoTooltip]信仰允許的行為。\n\n這一決定的主要背景在於，一個人無法滿足多個配偶的要求，並且實行多偶制會導致配偶之間犯下嫉妒之罪。"
+	jewish_events.0001.a:0 "就這樣吧。"
+	jewish_events.0001.b:0 "我們[ROOT.Char.GetCulture.GetCollectiveNoun]人不會放棄自己的道路！"
+	jewish_events.0001.c:0 "我覺得拉比越權了。"

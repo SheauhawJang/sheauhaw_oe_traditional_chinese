@@ -1,0 +1,5 @@
+﻿l_trad_chinese:
+	TEMP_GUI_INTERACTION:0 "$EFFECT_LIST_BULLET$囚禁#high 公爵格思#!\n$EFFECT_LIST_BULLET$#N 這是#E 暴政#!行為，將導致你的臣民對你失去#Z 40#!#E 好感#!#!"
+	TEMP_GUI_INTERACTION_2:0 "$EFFECT_LIST_BULLET$所有#high 公爵格思的#!親族成員對我失去#Z 15#!#E 好感#!。\n$EFFECT_LIST_BULLET$對我失去#Z 30#!#E 好感#!#low （被囚禁）#!"
+	TEMP_GUI_INTERACTION_TITLE:0 "對東盎格利亞#high 公爵格思·戈德溫森#!的效果"
+	TEMP_GUI_HOOK:0 "使用一個#E 牽制#!"

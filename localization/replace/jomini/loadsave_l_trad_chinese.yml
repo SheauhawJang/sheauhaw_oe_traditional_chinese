@@ -1,0 +1,3 @@
+﻿l_trad_chinese:
+	JOMINI_LOAD_GAME_FAILED_TITLE:0 "讀取存檔失敗"
+	JOMINI_LOAD_GAME_FAILED_DESC:0 "無法加載該存檔，可能是由於以下原因：\n#indent_newline:2 •存檔創建於不兼容的遊戲版本\n•存檔使用了不同的DLC加載集\n•存檔文件損壞#!"

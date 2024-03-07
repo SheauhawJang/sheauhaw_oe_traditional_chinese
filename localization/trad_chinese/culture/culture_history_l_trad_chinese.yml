@@ -1,0 +1,6 @@
+﻿l_trad_chinese:
+	kochinim_history_loc:0 "於[DATE.GetYear]年融合自[CULTURE.GetName]文化和擁有$israelite_group$[heritage|E]的一種未知文化"
+	vlach_history_loc:0 "於[DATE.GetYear]年融合自[CULTURE.GetName]文化和擁有$south_slavic_group$[heritage|E]的一種未知文化"
+	bulgarian_history_loc:0 "於[DATE.GetYear]年融合自[CULTURE.GetName]文化和擁有$south_slavic_group$[heritage|E]的一種未知文化"
+	scythian_heritage_loc:0 "於[DATE.GetYear]年分離自斯基泰文化"
+	bactrian_heritage_loc:0 "於[DATE.GetYear]年融合自巴克特裡亞文化和[CULTURE.GetName]文化"

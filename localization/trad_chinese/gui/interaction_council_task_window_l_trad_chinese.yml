@@ -1,0 +1,10 @@
+﻿l_trad_chinese:
+	select_council_task_header:0 "索要內閣職位"
+	COUNCIL_TASK_INTERACTION_NO_SELECTED_TASK:0 "@warning_icon! #X 尚未選擇任務#!"
+	COUNCIL_TASK_INTERACTION_AUTO_FILLED:0 "@warning_icon! #X [ACTIVE_COUNCIL_TASK.GetPositionName]已自動補位#!"
+	COUNCIL_TASK_INTERACTION_WINDOW_SELECT_TASK:0 "選擇一個內閣職位"
+	COUNCIL_TASK_INTERACTION_WINDOW_SELECTED_TASK:0 "選擇職位：[CouncilTaskInteractionWindow.GetSelectedTask.GetPositionName]"
+	COUNCIL_TASK_INTERACTION_WINDOW_PLAYER_SKILLS_LABEL:0 "[GetPlayer.GetShortUINamePossessive|U]的[skills|E]"
+	COUNCIL_TASK_INTERACTION_CURRENT:0 "當前：[Character.GetUIName]"
+	COUNCIL_TASK_INTERACTION_CURRENT_YOU:0 "你當前的職位"
+	COUNCIL_TASK_INTERACTION_VACANT:0 "當前：空缺"

@@ -1,0 +1,5 @@
+﻿l_trad_chinese:
+	JOMINI_MSGRDK_SIGNIN_FAILED_TITLE:0 "存在問題"
+	JOMINI_MSGRDK_SIGNIN_FAILED_TEXT:0 "微軟賬號無法登錄。一些遊戲內容可能無法使用。"
+	JOMINI_MSGRDK_NO_PERMISSION_TITLE:0 "賬戶權限"
+	JOMINI_MSGRDK_NO_UGC_TEXT:0 "您沒有訪問用戶生成內容的權限。模組將被禁用。"

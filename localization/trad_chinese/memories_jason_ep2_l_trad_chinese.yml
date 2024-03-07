@@ -1,0 +1,13 @@
+﻿l_trad_chinese:
+	fled_riot_at_races_memory_desc:0 "我逃到了安全的地方，因為我的比武大會賽車場爆發了騷亂，許多客人受傷"
+	fled_riot_at_races_memory_desc_second_perspective:0 "你逃到了安全的地方，因為你的比武大會賽車場爆發了騷亂，許多客人受傷"
+	fled_riot_at_races_memory_desc_third_perspective:0 "[owner.GetName]逃到了安全的地方，因為[owner.GetHerHis]的比武大會賽車場爆發了騷亂，許多客人受傷"
+	failed_riot_at_races_memory_desc:0 "我沒能阻止暴徒的暴力行為，這毀了我的比武大會，並使許多客人受傷"
+	failed_riot_at_races_memory_desc_second_perspective:0 "你沒能阻止暴徒的暴力行為，這毀了你的比武大會，並使許多客人受傷"
+	failed_riot_at_races_memory_desc_third_perspective:0 "[owner.GetName]沒能阻止暴徒的暴力行為，這毀了[owner.HerHis]的比武大會，並使許多客人受傷"
+	calmed_the_crowd_memory_desc:0 "我僅用嚴肅和伶俐的話語，就鎮住了大批騷亂的人群"
+	calmed_the_crowd_memory_desc_second_perspective:0 "你僅用嚴肅和伶俐的話語，就鎮住了大批騷亂的人群"
+	calmed_the_crowd_memory_desc_third_perspective:0 "憑藉盛大的演講和各種禮物，[owner.GetName]鎮住了大批騷亂的人群"
+	fled_riot_at_races_memory:0 "在比賽發生暴亂時逃離"
+	failed_riot_at_races_memory:0 "未能阻止賽車場的暴力騷亂"
+	calmed_the_crowd_memory:0 "用精彩的演講平息了一場暴動"

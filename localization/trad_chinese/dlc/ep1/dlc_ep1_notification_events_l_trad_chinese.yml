@@ -1,0 +1,7 @@
+﻿l_trad_chinese:
+	ep1_notifications.0011.t:0 "你更改了你的宮廷語言"
+	ep1_notifications.0011.desc:0 "願我們的宮廷愈加顯赫！"
+	ep1_notifications.0012.t:0 "[target_character.GetShortUINameNoTooltip]更改了其宮廷語言"
+	ep1_notifications.0012.desc:0 "[target_character.GetShortUINameNoTooltip]的宮廷現在說[target_character.GetCourtLanguage.GetName]。願他們的決定被證明是蠢事！"
+	ep1_notifications.0013.t:0 "[target_character.GetShortUINameNoTooltip]更改了其宮廷語言"
+	ep1_notifications.0013.desc:0 "[target_character.GetShortUINameNoTooltip]的宮廷現在說[target_character.GetCourtLanguage.GetName]。無比明智的決定！"

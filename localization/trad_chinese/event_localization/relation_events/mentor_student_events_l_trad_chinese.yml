@@ -1,0 +1,11 @@
+﻿l_trad_chinese:
+	mentor_student.0001.t:0 "往昔歲月"
+	mentor_student.0001.desc:0 "「到此為止了，[ROOT.Char.GetFirstNameNoTooltip]！」我的[ROOT.Char.Custom2('RelationToMe', SCOPE.sC('mentor_to_lose') )][mentor_to_lose.GetTitledFirstName]，大聲喊道，[mentor_to_lose.Custom('quirk_neg_pp')]。\n\n「我們的關係結束了，我們之間的差異太大，實在是難以調和。你現在得靠你自己了。」"
+	mentor_student.0001.a:0 "很好。"
+	mentor_student.0002.desc:0 "「我沒有什麼能教你的了。」\n\n我的[ROOT.Char.Custom2('RelationToMe', SCOPE.sC('mentor_to_lose') )][mentor_to_lose.GetTitledFirstName][mentor_to_lose.Custom('quirk_pos_adverb')]笑道，並點點頭。「你學到了很多，但是要進一步深入研究，你就得走出你自己的道路。」"
+	mentor_student.0002.a:0 "[mentor_to_lose.GetSheHe|U]的確教了我很多！"
+	mentor_student.0002.b:0 "我覺得我們的關係現在更加穩固了。"
+	mentor_student.0003.t:0 "三思"
+	mentor_student.0003.desc:0 "我的[ROOT.Char.Custom2('RelationToMe', SCOPE.sC('mentor_to_lose') )][mentor_to_lose.GetTitledFirstName][mentor_to_lose.Custom('quirk_neg_adverb')]笑道，同時[mentor_to_lose.GetSheHe]告訴了我[mentor_to_lose.GetHerHis]近期的#EMP 成果#!。\n\n我可能還有東西需要學習，但是要忍受[mentor_to_lose.GetFirstName]個人變得越來越難。"
+	mentor_student.0003.a:0 "這段關係結束了。"
+	mentor_student.0003.b:0 "如果那就是知識的代價……"

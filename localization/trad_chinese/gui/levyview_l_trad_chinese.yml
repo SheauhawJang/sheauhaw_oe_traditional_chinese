@@ -1,0 +1,8 @@
+﻿l_trad_chinese:
+	LV_HEADER:0 "徵召兵"
+	LV_COUNTS:0 "[LevyView.GetLivingCount|0]/[LevyView.GetMaxCount|0]"
+	LV_FLAVOR:0 "徵召兵包括農民兵、地痞、當地傭兵以及落魄貴族，裝備著五花八門的工具和東拼西湊的武器——他們數量龐大，構成了大部分軍隊的主體。"
+	LV_RAISED:0 "[LevyView.GetRaisedCount|0]已集結"
+	LV_UNRAISED:0 "未集結"
+	LV_MAINTENANCE:0 "維護費：[gold_i][LevyView.GetMaintenanceCost|2]/月"
+	LV_NO_COUNTERS:0 "徵召兵無法[counter|E]其他類型兵種"

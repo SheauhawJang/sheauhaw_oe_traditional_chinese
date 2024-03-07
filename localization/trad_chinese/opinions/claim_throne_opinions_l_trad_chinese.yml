@@ -1,0 +1,9 @@
+﻿l_trad_chinese:
+	claim_my_throne_success_discovered_opinion:0 "假冒的宣稱者"
+	claim_my_throne_success_undiscovered_opinion:0 "意外的宣稱者"
+	claim_my_throne_failure_opinion:0 "假冒宣稱未遂"
+	claim_throne_aiding_liege_opinion:0 "支援我"
+	claim_throne_bought_support_opinion:0 "收買了我的支持"
+	claim_throne_self_declared_opinion:0 "自行宣告的統治者"
+	claim_throne_tricked_peasants_opinion:0 "哄騙了農民"
+	claim_throne_forged_letter_opinion:0 "哄騙了貴族"

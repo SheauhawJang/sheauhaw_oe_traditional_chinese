@@ -1,0 +1,4 @@
+﻿l_trad_chinese:
+	chad_debug.0001.t:0 "宮廷職位debug事件"
+	chad_debug.0001.desc:0 "起來幹活"
+	chad_debug.0001.a:0 "將[appointee.GetFirstNameNoTooltip]任命為你的迦樓羅"

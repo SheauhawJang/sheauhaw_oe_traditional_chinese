@@ -1,0 +1,5 @@
+﻿l_trad_chinese:
+	rival_race_sabotage_accusation:0 "在一次衝撞後，[CHARACTER.GetShortUIName|U]指責[TARGET_CHARACTER.GetShortUIName]進行陰險破壞。"
+	rival_race_sabotage_accusation_corresponding:0 "在一次衝撞後，[TARGET_CHARACTER.GetShortUIName|U]指責[CHARACTER.GetShortUIName]進行陰險破壞。"
+	friend_shared_disappointment:0 "[CHARACTER.GetShortUINamePossessive|U]在一同輸掉比賽後從悲傷中締結了情誼。"
+	friend_shared_disappointment_corresponding:0 "[TARGET_CHARACTER.GetShortUINamePossessive|U]在一同輸掉比賽後從悲傷中締結了情誼。"

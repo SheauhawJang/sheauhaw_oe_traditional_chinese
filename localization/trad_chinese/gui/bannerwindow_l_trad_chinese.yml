@@ -1,0 +1,12 @@
+﻿l_trad_chinese:
+	EDIT_BANNERS_LABEL:0 "編輯"
+	EDIT_BANNERS_TOOLTIP:0 "#T 編輯集結點#!"
+	RAISE_BANNER:0 "集結軍隊"
+	BANNER_RAISES_TIME:0 "$TIME_TO_RAISE$$VALUE|0$天"
+	BANNER_NUMBER_OF_MEN:0 "[soldiers|E]：$VALUE|0$"
+	BANNER_ALREADY_RAISED:0 "#N 該集結點的所有士兵均已集結#!"
+	BANNER_NOT_BEING_RAISED:0 "#N 該集結點目前沒有在集結任何軍隊#!"
+	BANNER_RAISE_PROMPT:0 "#T 集結分配到該集結點的所有士兵#!"
+	BANNER_CANCEL_RAISING:0 "取消集結"
+	BANNER_CANCEL_RAISING_PROMPT:0 "#T 取消該集結點的集結並解散軍隊#!"
+	BANNER_LIST_DOMAIN_LIMIT_PENALTY_TOOLTIP:0 "@warning_icon! #X 超出[domain_limit|E]。來自[domain]的徵召兵減少$PENALTY|%0$#!"

@@ -1,0 +1,7 @@
+﻿l_trad_chinese:
+	bp2_yearly_extra.0001.t:0 "我最喜歡的閣臣"
+	bp2_yearly_extra.0001.desc:0 "迷人且有趣。我一直在觀摩內閣的工作，尤其是[ROOT.Char.Custom2( 'RelationToMe', target_councilor )][target_councilor.GetTitledFirstName]引起了我的興趣。\n\n顯然，我們有著相同的激情。於是我發現自己在內閣花的時間越來越多了。"
+	bp2_yearly_extra.0001.a:0 "我想幫忙！"
+	bp2_yearly_extra.0001.a.tt:0 "幫忙還是幫倒忙？動手才能學到東西。"
+	bp2_yearly_extra.0001.b:0 "我只是喜歡看他們工作。"
+	bp2_yearly_extra.0001.b.tt:0 "站在後面記筆記總是安全的。"

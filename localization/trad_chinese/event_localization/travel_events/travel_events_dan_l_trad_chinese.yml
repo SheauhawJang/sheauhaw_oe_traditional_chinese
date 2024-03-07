@@ -1,0 +1,13 @@
+﻿l_trad_chinese:
+	travel_danger_events.2000.t:0 "$travel_danger_prefix$叢林之眼"
+	travel_danger_events.2000.desc:0 "自從我們踏進[ROOT.Char.GetCurrentLocation.GetNameNoTooltip]的叢林起，就有什麼東西一直在注視著我。我看到了眼中的閃光，聽到了樹葉沙沙作響。\n\n它在尾隨我，在跟蹤我，#EMP 在獵捕我#!。\n\n我派出找它的人一去不返。這個潛伏在翠綠叢林深處的生物是什麼呢？"
+	travel_danger_events.2000.a:0 "刀砍火燒，#EMP 找出它#!。"
+	travel_danger_events.2000.b:0 "我討厭這種感覺。帶我離開這。"
+	travel_danger_events.2000.c:0 "這叢林裡唯一可怕的就是我！"
+	travel_danger_events.2001.t:0 "$travel_danger_prefix$洪水"
+	travel_danger_events.2001.desc:0 "我們經行過[ROOT.Char.GetCurrentLocation.GetNameNoTooltip]時，雨勢還未漸歇。我一直緊張地注視著那條河，渾濁的河水漲得越來越高，就像水泡灌膿。\n\n我的[ROOT.Char.Custom2('RelationToMe', flood_victim)][flood_victim.GetFirstNameNoTooltip]又一次抱怨道：「我們已經在這他媽又潮濕又低窪的糞坑裡跋涉了好幾天了。什麼時候才……」\n\n[flood_victim.GetSheHe]還沒來得及說完[flood_victim.GetHerHis]的話，河岸終於裂開了。一股濃稠幽暗的水嘩嘩湧入，正衝著我們的補給，還有[flood_victim.GetFirstNameNoTooltip]！"
+	travel_danger_events.2001.a:0 "救下補給！"
+	travel_danger_events.2001.b:0 "救下[flood_victim.GetFirstNameNoTooltip]！！"
+	burned_my_jungle_opinion:0 "燒毀我的叢林"
+	travel_lost_supplies:0 "失去補給"
+	travel_lost_supplies_desc:0 "該角色感受到了在旅途中失去補給的影響。"

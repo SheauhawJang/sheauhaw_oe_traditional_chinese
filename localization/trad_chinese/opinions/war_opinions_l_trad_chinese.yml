@@ -1,0 +1,13 @@
+﻿l_trad_chinese:
+	declared_war:0 "宣戰"
+	declared_war_on_son_daughter:0 "向其子女宣戰"
+	vassal_lost_faction_revolt_war:0 "反抗我"
+	vassal_wp_faction_revolt_war:0 "反抗我"
+	liege_lost_declared_religious_war:0 "打輸了我們的宗教戰爭"
+	liege_lost_mongol_invasion_war:0 "入侵失敗了"
+	rejected_call_to_defensive_war:0 "拒絕防禦戰爭召喚"
+	rejected_call_to_offensive_war:0 "拒絕進攻戰爭召喚"
+	contributed_in_war:0 "為我的一場戰爭做過貢獻 "
+	peasant_revolt_opinion:0 "$vassal_lost_or_wp_faction_revolt_war$"
+	warmonger_opinion:0 "戰爭狂人"
+	vassal_lost_or_wp_faction_revolt_war:0 "反抗我"

@@ -1,0 +1,7 @@
+﻿l_trad_chinese:
+	pilgrimage_piousness:0 "已達成的虔誠度"
+	pilgrimage_worldliness:0 "已達成的世俗度"
+	pilgrimage_piousness_desc:0 "\n\n到目前為止你的[pilgrimage|E]有多虔誠。\n\n你越虔誠，你可以獲得的[activity|E]獎勵就越好。"
+	pilgrimage_worldliness_desc:0 "\n\n到目前為止你的[pilgrimage|E]有多世俗。\n\n你越世俗，你可以獲得的[activity|E]獎勵就越好。"
+	fallback_liturgical_province_language:0 "古[ROOT.Province.GetCulture.GetLanguage.GetName]"
+	fallback_liturgical_character_language:0 "古[ROOT.Char.GetCulture.GetLanguage.GetName]"

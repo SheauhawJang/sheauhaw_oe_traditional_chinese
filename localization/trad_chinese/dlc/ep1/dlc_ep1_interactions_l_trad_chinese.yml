@@ -1,0 +1,11 @@
+﻿l_trad_chinese:
+	fund_inspiration_interaction:0 "贊助靈感"
+	fund_inspiration_interaction_desc:0 "贊助[recipient.GetShortUINamePossessiveNoTooltip]的[inspiration|E]，開啟一個[project|E]，可能讓你獲得一件[artifact|E]。\n\n寶物質量和贊助花費取決於[recipient.GetHerHis]的能力。"
+	fund_inspiration_interaction_reqruit_family_tooltip:0 "[recipient.GetShortUIName|U]和[recipient.GetHerHis]的家庭"
+	indebt_guest_interaction:0 "要挾賓客"
+	indebt_guest_interaction_desc:0 "讓你的[Concept('court_amenities','僕人')|E]作證，指控[recipient.GetShortUINamePossessive]在停留期間造成了一系列損失，#EMP 然後#!給其指一條明路……"
+	indebt_guest_interaction.tt.direct_indebted_guest:0 "你將有機會命令[recipient.GetTitledFirstName]前往某處"
+	indebt_guest_interaction.tt.failure:0 "[recipient.GetTitledFirstName]頂住施壓逃走了"
+	INDEBT_GUEST_INTRIGUE_ACTOR:0 "[actor.GetShortUINamePossessive|U]的[intrigue|E]：$VALUE|=+0$"
+	INDEBT_GUEST_INTRIGUE_RECIPIENT:0 "[recipient.GetShortUINamePossessive|U]的[intrigue|E]：$VALUE|=+0$"
+	INDEBT_GUEST_CURRENT_CGV_ABOVE_EXPECTED:0 "[recipient.GetShortUINamePossessive|U]超出的[court_grandeur|E]：$VALUE|=+0$"

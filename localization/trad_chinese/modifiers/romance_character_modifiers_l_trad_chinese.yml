@@ -1,0 +1,10 @@
+﻿l_trad_chinese:
+	romance_great_painting_gift_modifier:0 "華麗的畫作"
+	romance_great_painting_gift_modifier_desc:0 "一幅技藝精湛的畫作，無疑抓住了房間裡所有的注意。"
+	romance_talented_troubadour_modifier:0 "在職的天賦異稟的遊吟詩人"
+	romance_talented_troubadour_modifier_desc:0 "一位極其天賦異稟的遊吟詩人受這位角色的雇傭。"
+	romance_less_talented_troubadour_modifier:0 "在職的遊吟詩人"
+	romance_less_talented_troubadour_modifier_desc:0 "一位遊吟詩人受該角色的雇傭。"
+	had_sex_with_effect.first_person.tt:0 "你與[had_sex_with_effect_partner.GetShortUIName]共赴巫山"
+	had_sex_with_effect.third_person.tt:0 "[had_sex_root_character.GetShortUIName|U]與[had_sex_with_effect_partner.GetShortUIName]共赴巫山"
+	had_sex_with_effect.other_person.tt:0 "與[had_sex_with_effect_partner.GetShortUIName]共赴巫山"

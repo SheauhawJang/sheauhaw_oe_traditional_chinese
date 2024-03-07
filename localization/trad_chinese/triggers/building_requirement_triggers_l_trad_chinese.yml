@@ -1,0 +1,5 @@
+﻿l_trad_chinese:
+	BUILDING_REQUIREMENT_TRIBAL_HOLDING_IN_COUNTY:0 "[PROVINCE.GetCounty.GetTitle.GetName]擁有一座[tribal|E]地產"
+	BUILDING_REQUIREMENT_CASTLE_CITY_CHURCH_FAILED:0 "[PROVINCE.GetName]必須是一座[castle|E]、[city|E]或者[temple|E]"
+	NOT_BUILDING_REQUIREMENT_CASTLE_CITY_CHURCH_FAILED:0 "[PROVINCE.GetName]不是[castle|E]、[city|E]或者[temple|E]"
+	NOT_BUILDING_REQUIREMENT_HALL_OF_HEROES_FAILED:0 "英雄殿僅限波羅的、斯拉夫和芬蘭原始宗教使用"

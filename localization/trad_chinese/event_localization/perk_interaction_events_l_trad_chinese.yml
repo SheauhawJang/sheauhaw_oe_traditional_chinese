@@ -1,0 +1,10 @@
+﻿l_trad_chinese:
+	perk_interaction.0002.t:0 "對我領地的宣稱！"
+	perk_interaction.0002.same_faith:0 "出於某種不可思議的原因，[actor.GetFaith.AltPriestTermPlural]認可了[actor.GetTitledFirstNamePossessive]完全不知來源的對[target.GetName]的宣稱！"
+	perk_interaction.0002.other_faith:0 "[actor.GetFaith.GetAdjective]的騙子祭司公開宣布支持[actor.GetTitledFirstNamePossessive]對[target.GetName]毫無根據的宣稱。"
+	perk_interaction.0002.a:0 "到時候我會給[actor.GetHerHim]點顏色瞧瞧……"
+	perk_interaction.0102.actor_toast.t:0 "你與[recipient.GetFirstNameNoTooltip]的比試已作廢"
+	perk_interaction.0102.recipient_toast.t:0 "你與[actor.GetFirstNameNoTooltip]的比試已作廢"
+	perk_interaction.0102.bout_invalidated.tt:0 "情勢變化迫使你取消"
+	perk_interaction.0101.victor_toast.t:0 "你戰勝了[sc_loser.GetFirstNameNoTooltip]"
+	perk_interaction.0101.loser_toast.t:0 "你輸給了[sc_victor.GetFirstNameNoTooltip]"

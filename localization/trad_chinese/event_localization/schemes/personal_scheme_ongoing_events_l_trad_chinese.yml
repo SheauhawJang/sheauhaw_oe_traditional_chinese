@@ -1,0 +1,7 @@
+﻿l_trad_chinese:
+	personal_scheme_ongoing.1000.t:0 "[scheme_to_apply_gift_to.GetSchemeType.GetTypeNameNoTooltip]：異域禮品"
+	personal_scheme_ongoing.1000.desc:0 "既然現在我正處於一場針對[scheme_to_apply_gift_to.GetTarget.GetTitledFirstName]的[scheme_to_apply_gift_to.GetSchemeType.GetTypeNameNoTooltip]計謀中，我應該考慮贈送[scheme_to_apply_gift_to.GetTarget.GetHerHim]一件異域禮品，在我去"
+	personal_scheme_ongoing.1000.desc_gift:0 "[ROOT.Var('6540_exotic_wares_gift').GetProvince.GetName]朝聖的途中。"
+	personal_scheme_ongoing.1000.desc_super_gift:0 "[ROOT.Var('6540_exotic_wares_super_gift').GetProvince.GetName]朝聖的途中。"
+	personal_scheme_ongoing.1000.a:0 "是的，我想送點異域風情的禮物。"
+	personal_scheme_ongoing.1000.b:0 "最好自己留著。"

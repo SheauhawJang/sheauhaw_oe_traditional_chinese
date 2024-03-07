@@ -1,0 +1,6 @@
+﻿l_trad_chinese:
+	DESIGNATE_HEIR_CHOOSE:0 "#I 選擇你的一個孩子成為[designated_heir|E]#!"
+	DESIGNATE_HEIR_ENACT:0 "指定繼承人"
+	DESIGNATE_HEIR_WINDOW_DESIGNATED_HEIR:0 "@warning_icon!當前指定繼承人"
+	DESIGNATE_HEIR_COST_DESC:0 "花費：@prestige_icon!$COST$"
+	DESIGNATE_HEIR_SELECT_TARGET:0 "@warning_icon! #X 未選擇繼承人#!"

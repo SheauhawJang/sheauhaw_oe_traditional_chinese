@@ -1,0 +1,6 @@
+﻿l_trad_chinese:
+	culture_conversion.0001.t:0 "成為[new_culture.GetName]人"
+	culture_conversion.0001.desc:0 "身穿[new_culture.GetName]式服裝，依照[new_culture.GetName]人習慣行事，首都中滿是[new_culture.GetCollectiveNoun]人，毫無疑問，[converting_character.Custom2('MyCharacterIntroduction', ROOT.Char)]不再認為[converting_character.GetHerselfHimself]自己是[old_culture.GetName]人，而是[new_culture.GetName]人！"
+	culture_conversion.0001.a:0 "情況變了，人們也變了。"
+	culture_conversion.0001.b:0 "捨棄我們的舊傳統是個壞主意。"
+	culture_conversion.0001.c:0 "我們都應與時俱進！"

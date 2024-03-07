@@ -1,0 +1,3 @@
+﻿l_trad_chinese:
+	COAT_OF_ARMS_IN_COLOR_LIST_TRIGGER:0 "顏色在$NAME$列表中"
+	COAT_OF_ARMS_IN_COLOR_LIST_TRIGGER_NOT:0 "顏色不在$NAME$列表中"

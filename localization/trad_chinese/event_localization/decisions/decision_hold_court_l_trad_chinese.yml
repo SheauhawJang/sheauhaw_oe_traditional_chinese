@@ -1,0 +1,8 @@
+﻿l_trad_chinese:
+	hold_court_decision:0 "舉辦朝會"
+	hold_court_decision_desc:0 "為了成為一個成功的統治者，我必須真正的在我的勢力範圍內處理各種疑難雜事。\n\n通過正式邀請我所有的臣民來到我的[ROOT.Char.Custom('ResidenceBuilding')]並請求我的幫助，我將能保持消息的靈通，左右力量的平衡，並向世界展示我才是掌權者。"
+	hold_court_decision_tooltip:0 "通過[holding_court|E]行使你的權力"
+	hold_court_decision_effects:0 "你邀請你的賓客和臣民來請求你的幫助：\n$EFFECT_LIST_BULLET$你可能會了解不可失的機遇\n$EFFECT_LIST_BULLET$你可能可以影響外國的局勢\n$EFFECT_LIST_BULLET$你可能獲得額外的宮廷顯赫度\n$EFFECT_LIST_BULLET$你可能得到或失去好感度，威望，金幣等等"
+	hold_court_decision_confirm:0 "聆聽請願者"
+	hold_court_gain_grandeur_tooltip:0 "你會提升你的[court_grandeur|E]"
+	hold_court_gain_legitimacy_tooltip:0 "你將增強你的[legitimacy|E]"

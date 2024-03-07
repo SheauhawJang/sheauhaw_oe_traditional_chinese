@@ -1,0 +1,6 @@
+﻿l_trad_chinese:
+	learn_language_ongoing.1200.t:0 "$learn_language$：四條腿的難題"
+	learn_language_ongoing.1200.desc:0 "在我努力學習[scheme.GetTarget.GetCulture.GetLanguage.GetNameNoTooltip]的過程中，我記了大量筆記，畢竟光靠腦子記可不行。但是當我需要它們的時候，卻怎麼都找不到了！我快速搜尋了一下它們的下落，卻一無所獲。\n\n當我轉過身來，仍不住低頭看向[ROOT.Char.Custom('DogStoryName')]，[ROOT.Char.Custom('DogStoryHerHis')]搖著尾巴，快樂得像個[ROOT.Char.Custom('GetAnimalType')]。過了一會我才意識到，[ROOT.Char.Custom('DogStorySheHe')]把我所有的筆記都牢牢地咬在了[ROOT.Char.Custom('DogStoryHerHis')]的牙齒間……"
+	learn_language_ongoing.1200.a:0 "我不可能一直生你的氣！"
+	learn_language_ongoing.1200.b:0 "你想出去遛一圈？那走吧。"
+	learn_language_ongoing.1200.c:0 "那可不是個玩具！#EMP 壞#!狗！"

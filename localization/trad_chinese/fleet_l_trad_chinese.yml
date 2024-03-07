@@ -1,0 +1,6 @@
+﻿l_trad_chinese:
+	FLEET_PREDICTION_HEADER:0 "#T 於$DATE|V$登船#!"
+	FLEET_PREDICTION_BREAKDOWN_ENTRY:0 "[ARMY.GetName]"
+	FLEET_PREDICTION_BASE_COST:0 "初始"
+	EMBARK_COST:0 "#T [embark|E]花費#!"
+	EMBARK_COST_EXPENSIVE:0 "@warning_icon!#X 當前你的資金不夠該項登船花費#!"

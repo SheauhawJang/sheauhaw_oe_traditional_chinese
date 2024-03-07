@@ -1,0 +1,8 @@
+﻿l_trad_chinese:
+	KILL_LIST:0 "[KillListWindow.GetCharacter.GetUINamePossessive|U]所殺之人"
+	OPEN_KILL_LIST_TOOLTIP:0 "#T 查看殺人清單\n#![Character.LocalPlayerString( '回憶', '查看你所知道的' )][Character.GetShortUINameNoTooltip]殺死的所有角色"
+	ARTIFACT_KILL_LIST:0 "[ArtifactKillListWindow.GetArtifact.GetName|U]所殺之人"
+	OPEN_ARTIFACT_KILL_LIST_TOOLTIP:0 "#T 查看殺人清單#!\n查看[Artifact.GetName]殺死的所有角色"
+	ARTIFACT_FORGOTTEN_SOLDIER_KILLS:0 "#S不知名的士兵#!：[Artifact.GetForgottenSoldiersCount|V]"
+	DEATH_DATE:0 "死亡日期"
+	DEATH_REASON:0 "死亡原因"

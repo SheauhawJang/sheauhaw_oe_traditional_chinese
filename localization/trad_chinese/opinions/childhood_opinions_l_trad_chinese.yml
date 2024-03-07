@@ -1,0 +1,7 @@
+﻿l_trad_chinese:
+	charming_crush_on_me_opinion:0 "戀慕我"
+	bothersome_crush_on_me_opinion:0 "糾纏我"
+	guardian_of_heir_opinion:0 "你繼承人的監護人"
+	guardian_of_relative_opinion:0 "你親屬的監護人"
+	guardian_of_heir_parochial_opinion:0 "你的繼承人的[GetVassalStance( 'parochial' ).GetTextIcon][GetVassalStance( 'parochial' ).GetName]監護人"
+	guardian_of_relative_parochial_opinion:0 "你的親戚的[GetVassalStance( 'parochial' ).GetTextIcon][GetVassalStance( 'parochial' ).GetName]監護人"

@@ -1,0 +1,10 @@
+﻿l_trad_chinese:
+	fabricate_hook_building_influence_modifier:0 "構築影響力"
+	fabricate_hook_interfering_with_servants_modifier:0 "通過僕人干涉"
+	fabricate_hook_family_speed_modifier:0 "大量聯絡關係"
+	fabricate_hook_family_success_modifier:0 "親族弱點"
+	fabricate_hook_careful_study_modifier:0 "謹慎研究"
+	fabricate_hook_gossip_modifier:0 "名譽受損"
+	fabricate_hook_servant_modifier:0 "不忠的僕人"
+	fabricate_hook_studied_personality_modifier:0 "研究性格"
+	fabricate_hook_suspicious_target_modifier:0 "多疑的目標"
